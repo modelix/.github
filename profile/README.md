@@ -14,7 +14,7 @@ Please have a look at the pinned projects or the following list for the most int
 
 * [https://github.com/modelix/modelix.core](https://github.com/modelix/modelix.core) (modelix platform core components)
 * [https://github.com/modelix/modelix](https://github.com/modelix/modelix) (MPS related components & others)
-* [https://github.com/modelix/model-api](https://github.com/modelix/model-api) (the underlying model API used in across all components)
+* [https://github.com/modelix/modelix-samples](https://github.com/modelix/modelix-samples) (samples which show several modelix platform features)
 
 
 ## Releases & Roadmap
