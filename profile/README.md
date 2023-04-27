@@ -30,5 +30,5 @@ To get started check out the [samples project](https://github.com/modelix/modeli
 
 ## Contact
 
-If you have any questions or feedback feel free to reach out via the [#modelix channel in the MPS Slack](https://jetbrains-mps.slack.com/archives/C01ADCD6VSM) or send us an [Email :mailbox:](modelix@itemis.com).
+If you have any questions or feedback feel free to reach out via the [#modelix channel in the MPS Slack](https://jetbrains-mps.slack.com/archives/C01ADCD6VSM) or send us an [Email :mailbox:](mailto:modelix@itemis.com).
 
